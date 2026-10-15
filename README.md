@@ -1,1 +1,1 @@
-# git-github-lab
+# Introduction to Git and GitHub - Final Project
